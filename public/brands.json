@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Disney",
+        "path": "disney",
+        "logo": "https://i.ibb.co/RbWV5c9/disney.png"
+    },
+    {
+        "id": 2,
+        "name": "Netflix",
+        "path": "netflix",
+        "logo": "https://i.ibb.co/T8hMQcL/netflix.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Warner Bros",
+        "path": "warner_bros",
+        "logo": "https://i.ibb.co/s9jrkf7/warner-bros.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Sony Pictures",
+        "path": "sony_pictures",
+        "logo": "https://i.ibb.co/nR95dkW/Sony-Pictures.jpg"
+    },
+    {
+        "id": 5,
+        "name": "20th CenturyFox",
+        "path": "20th_century_fox",
+        "logo": "https://i.ibb.co/rw0x54n/20th-Century-Fox.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Spotify",
+        "path": "spotify",
+        "logo": "https://i.ibb.co/mbGyBNx/Spotify.png"
+    },
+    {
+        "id": 7,
+        "name": "Time Warner",
+        "path": "time_warner",
+        "logo": "https://i.ibb.co/YQVv88k/Time-Warner.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Paramount",
+        "path": "paramount",
+        "logo": "https://i.ibb.co/L55Gj2p/Paramount.png"
+    },
+    {
+        "id": 9,
+        "name": "Universal Pictures",
+        "path": "universal_pictures",
+        "logo": "https://i.ibb.co/G57LGMs/Universal-Pictures.png"
+    },
+    {
+        "id": 10,
+        "name": "MGM Studios",
+        "path": "mgm_studios",
+        "logo": "https://i.ibb.co/HD7Hvwq/MGM-Studios.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Lionsgate",
+        "path": "lionsgate",
+        "logo": "https://i.ibb.co/R46y1Mv/Lionsgate.jpg"
+    },
+    {
+        "id": 12,
+        "name": "DreamWorks",
+        "path": "dream_works",
+        "logo": "https://i.ibb.co/NrFWFBF/Dream-Works-Animation.jpg"
+    }
+]

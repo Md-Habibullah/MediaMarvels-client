@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Movie",
+        "path": "movie",
+        "logo": "https://i.ibb.co/SrxGsCM/movie.webp"
+    },
+    {
+        "id": 2,
+        "name": "Series",
+        "path": "series",
+        "logo": "https://i.ibb.co/R9mR1rR/series.png"
+    },
+    {
+        "id": 3,
+        "name": "Merchandise",
+        "path": "merchandise",
+        "logo": "https://i.ibb.co/DwCHRLL/Merchandise.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Toys",
+        "path": "toys",
+        "logo": "https://i.ibb.co/r37f24Y/Toys2.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Album",
+        "path": "album",
+        "logo": "https://i.ibb.co/QmCQx15/Album.webp"
+    },
+    {
+        "id": 6,
+        "name": "Accessories",
+        "path": "accessories",
+        "logo": "https://i.ibb.co/0MTBmPV/Accessories.png"
+    }
+]
